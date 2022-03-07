@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 11 14:33:13 2021
 
-@author: Taslima Diallo
+@author: Abdeljalili Khadija
 """
 
 import matplotlib.pyplot as plt
